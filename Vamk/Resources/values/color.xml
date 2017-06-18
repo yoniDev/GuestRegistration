@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <color name="ColorPrimary">#42A5F5</color>
+  <color name="ColorPrimaryDark">#1E88E5</color>
+  <color name="ColorAccent">#F57C00</color>
+  <color name="ColorAccentLight">#FFF3E0</color>
+  <color name="ColorPrimaryLight">#E3F2FD</color>
+  <color name="ColorTextPrimary">#FFFFFF</color>
+  <color name="ColorControlNormal">#FFCC80</color>
+  <color name="ColorButtonNormal">#42A5F5</color>
+  <color name="ColorControlHighlight">#F57C00</color>
+  <color name="ColorControlActivated">#42A5F5</color>
+  <color name="ColorTapped">#757575</color>
+  <color name="ColorPageBackground">#E4E4E5</color>
+  <color name="ColorDivider">#A5D6A7</color>
+  <color name="ColorText">#000000</color>
+</resources>

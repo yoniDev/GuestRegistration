@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+  <style name="AppTheme" parent="WorkforceTheme.Base">
+    <item name="android:windowContentTransitions">true</item>
+  </style>
+
+  <style name="WorkforceTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:colorPrimary">@color/ColorPrimary</item>
+    <item name="android:colorAccent">@color/ColorAccent</item>
+    <item name="android:colorPrimaryDark">@color/ColorPrimaryDark</item>
+    <item name="android:statusBarColor">@color/ColorPrimaryDark</item>
+  </style>
+
+  <style name="CollapsingToolbarTextStyle" parent="AppTheme">
+    <item name="android:textColor">@color/ColorPrimary</item>
+  </style>
+   
+  <style name="TextLableStyle" parent="TextAppearance.AppCompat">
+    <item name="android:textSize">18sp</item>
+    <item name="android:textColorHint">@color/ColorText</item>
+    <item name="android:colorControlNormal">@color/ColorControlNormal</item>
+    <item name="android:colorControlActivated">@color/ColorControlActivated</item>
+  </style>
+  
+  <style name="RaisedButtonStyle" parent="Theme.AppCompat.Light">
+    <item name="android:colorControlHighlight">@color/ColorControlHighlight</item>
+    <item name="android:colorButtonNormal">@color/ColorButtonNormal</item>
+  </style>
+ </resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ColorPrimary">
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/vamk"
+        android:layout_gravity="center"
+        android:layout_marginTop="45dp" />
+    <TextView
+        android:text="VAMK"
+        android:fontFamily="sans-serif-condensed"
+        android:shadowDx="4"
+        android:shadowDy="6"
+        android:shadowRadius="2"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/splashtext"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/ColorTextPrimary"
+        android:layout_height="wrap_content"
+        android:textSize="24sp" />
+    <TextView
+        android:text="Guest Registration"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="24sp"
+        android:shadowDx="4"
+        android:shadowDy="6"
+        android:shadowRadius="2"
+        android:layout_width="wrap_content"
+        android:id="@+id/splashtext2"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/ColorTextPrimary"
+        android:layout_height="wrap_content" />
+</LinearLayout>

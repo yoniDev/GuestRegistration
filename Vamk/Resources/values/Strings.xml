@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fname">First Names</string>
+    <string name="lname">Last Name</string>
+    <string name="age">Birthdate(ddmmyy)</string>
+  <string name="email">Email Address</string>
+  <string name="dateformat">ddmmyy</string>  
+</resources>
